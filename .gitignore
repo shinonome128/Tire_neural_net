@@ -4,6 +4,7 @@ RESULT/
 svn/
 .svn/
 .DS_Store
+.ipynb_checkpoints/
 __pycache__/
 *.swp
 *.result
